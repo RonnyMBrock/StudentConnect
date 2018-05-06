@@ -1,2 +1,1 @@
-# StudentConnect
-Chatroom app for Android
+Student_Connect
